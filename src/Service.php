@@ -10,6 +10,6 @@ class Service
 
     public function hello()
     {
-        return 'success';
+        return 'suce';
     }
 }
